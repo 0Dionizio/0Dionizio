@@ -13,4 +13,8 @@ My current programming stack is focused on Javascript, where I use React as my p
 * Front-end Web Developer at Anjun Express (Since Jan 2023)
 * Front-end Mobile Developer at Finkids (Octo 2023 - Jan 2023)
 
+ ## :wrench: Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,tailwind,nextjs,figma,vscode,git,postman)](https://skillicons.dev)
+ 
+
  
