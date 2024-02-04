@@ -1,4 +1,6 @@
 # <Hello, World! /> I'm Douglas Dionizio 👋
+<a href="https://www.linkedin.com/in/douglasdionizio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
+
 
 I am a front-end developer with over +1 year of experience in the industry. I graduated in Analysis and Systems Development between 2020 and 2022 and am currently a part of the Anjun team.
 
