@@ -11,7 +11,8 @@ My current programming stack is focused on Javascript, where I use React as my p
 
 ## :briefcase: Experience
 
-* Front-end Web Developer at Anjun Express (Since Jan 2023)
+* Front-end Web Developer at Blue (Since Fev 2025)
+* Front-end Web Developer at Anjun Express (Jan 2023 - Fev 2025)
 * Front-end Mobile Developer at Finkids (Octo 2023 - Jan 2023)
 
  ## :wrench: Skills
